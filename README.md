@@ -37,6 +37,16 @@ My background combines real-world experience leading teams, implementing busines
 
 ## Featured Projects
 
+### [Nibble Fish](https://github.com/caitmcc165/nibble-fish-portfolio)
+
+Independent Unity/C# Android project developed from original concept through iterative implementation.
+
+The public case study documents gameplay systems, ScriptableObject-based data architecture, persistent collection state, progression logic, screenshots, and selected portfolio-safe C# code samples.
+
+**Technologies:** Unity • C# • Android • Git/GitHub • ScriptableObjects • Persistent State
+
+---
+
 ### [Warehouse Inventory System](https://github.com/caitmcc165/warehouse-inventory-system)
 
 Python inventory and order-management system demonstrating dictionaries, FIFO queues, priority processing, inventory validation, low-stock reporting, and defensive error handling.
@@ -54,14 +64,6 @@ DevOps-focused system architecture and delivery-planning project for a scalable 
 ---
 
 ## Projects Being Added
-
-### Nibble Fish
-
-Independent Unity and C# Android game developed from concept through iterative implementation.
-
-The project includes gameplay systems, spawning and collision logic, reusable data models, progression systems, UI workflows, persistent game state, and ongoing feature development.
-
-**Technologies:** Unity • C# • Git • Object-Oriented Programming
 
 ### Cloud-Native CI/CD & GitOps Deployment
 
